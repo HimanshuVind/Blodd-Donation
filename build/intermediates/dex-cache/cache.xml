@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_5764c6d3fe91417f9f16600c3477706282484fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.0.4_a137ef6cd1f62b6b9f09c0fc08ce5f41826fd3a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_72ddabb67336dda602d16bc76af4658d48679785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.0.4_1f45b5e178af263d2d6ee1185984feb1a4444437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_450fd4c99d245ad2aa5c42f1bfd550b56dadb16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.0.4_5d2739d09d5bcf9ab27f3b4037ff2aeca26e266e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_7f8dce9d8e9b23f4622b23da57af5a074a14587d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.0.4_4525209b067f76ded8ff4235e00b2db391bd9149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.0.4_5a04922c9d3a00f72b772dae06bf782c2920a1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.0.4_c72526444cd4e4cd43c9da9076f362590ab43e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-11.0.4_d8742f8d44cf657a0d3f555b6c93e2bbc31bba4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_98c1aa092a5cee105245e4cdc8eda35f875dfce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-11.0.4_a43c2e0fef9b6f72bc82240b365f8b9128e3efef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1f30ba63088d1d6eb6a750aa14e28a21d6616ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.0.4_1dab6ed1798441e652c60cbf0e3bada37fab047f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-11.0.4_db45e98ec0c884b7f9f95ebac93f1574793d21f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_aa31eda4d1a70f4c647c8001892109d3e825fec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.0.4_d500b86039b70dbba55d95e102ebf1f0d81e0ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-11.0.4_b9c3747993ec716e4d19ae1165dc1d8bfda8e88b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.0.4_0a803df7441b86d2fc07bd2cd4afb769901fa6e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-11.0.4_7ae1ffc52da10ba2e1f223c08e02f5420460d5f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_cccea0dd2bf5368aeab5f73cd1a45c44be371c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.6.2_e4589d717d9adddbfe4348336c6fa645bd839b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_eaaab50b25049376901c24cad1469c479bf5732d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_7afa7c683daf00e85f97457ee883bb98ab16fa8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_3c72c9afc3f0422a871dcea0f30b79c50c5d4304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-11.0.4_68c0889c31217059d5134f889471e7cfa12323b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.0.4_b67132b062f798828855f63742412f9034f676b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_52692c12b0d8e2f8e61c16340f9fdebd30c75b48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\BLood donation2k9\Main-Project\Blood-Donation\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_4962cb1b50a8398c4f54d8da6d5da759552eefa1.jar" />
+    </item>
+
+</items>
